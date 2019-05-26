@@ -1,5 +1,9 @@
-Gobuster v2.0.1 (OJ Reeves @TheColonial)
+Gobuster v2.0.1 (OJ Reeves @TheColonial, Fork by Jack @InfoSecJack)
 ========================================
+
+My only contribution to this project is that I made it include 401 as a positive dir code.
+Nothing Else.
+At all.
 
 Gobuster is a tool used to brute-force:
 
